@@ -43,27 +43,27 @@ To redeem the WP Engine coupon code, just follow the instructions below.
 
 Here is the 2024 WP Engine pricing plan.
 
-1. Startup Plan
+### 1. Startup Plan
 
   * Ideal for single blogs or small websites.
   * Limits: 1 site, 25,000 monthly visitors, 10 GB storage, 50 GB bandwidth.
 
-2. Growth Plan
+### 2. Growth Plan
 
   * Designed for many websites that need more resources.
   * Limits: 10 sites, 100,000 monthly visitors, 20 GB of storage, and 200 GB of bandwidth.
 
-3. Scale Plan
+### 3. Scale Plan
 
   * Best for high-traffic websites requiring robust resources.
   * Limits: 30 sites, 400,000 monthly visitors, 50 GB storage, and 500 GB bandwidth.
 
-4. Lite Plan
+### 4. Lite Plan
 
   * A cheap choice for single-site users.
   * Limits: 1 site, 5,000 monthly visitors, $13/month.
 
-5. Custom Plans
+### 5. Custom Plans
 
   * Tailored solutions for businesses handling millions of visitors or requiring extensive storage.
 
@@ -83,35 +83,35 @@ WP Engine equips business owners, bloggers, and developers to boost their sites.
 
 Honestly, WP Engine impressed me with its features that enhance WordPress. Here's why I believe it's a top choice for managed WordPress hosting:
 
-Cloud-Powered Performance
+**Cloud-Powered Performance**
 
 WP Engine partners with Google Cloud and AWS. It uses advanced tech like New Relic and Cloudflare. This delivers a fast, secure, and optimized hosting experience.
 
-Free StudioPress Themes
+**Free StudioPress Themes**
 
 All plans include over 35 premium StudioPress themes built on the Genesis framework. This is a huge benefit for beginners looking to create professional websites effortlessly.
 
-Automated SSL Certificates
+**Automated SSL Certificates**
 
 WP Engine simplifies SSL setup. It offers free Let’s Encrypt certificates and premium RapidSSL Wildcard Certificates. You can manage them from the user portal.
 
-Reliable Backups
+**Reliable Backups**
 
 Enjoy automated daily backups, manual backup options, and partial restores. These include WordPress core files, themes, plugins, and databases for complete peace of mind.
 
-Expert Support
+**Expert Support**
 
 WP Engine's support team is available 24/7/365. They are WordPress experts, ready to help at any time. They offer industry-leading support.
 
-Developer-Friendly Tools
+**Developer-Friendly Tools**
 
 WP Engine is ideal for developers and teams. It has features like Git, SFTP access, and isolated dev environments.
 
-Global CDN
+**Global CDN**
 
 A free Global CDN boosts website speed. It delivers resources from servers worldwide.
 
-Smart Plugin Manager
+**Smart Plugin Manager** 
 
 This AI tool updates plugins securely using machine learning and visual tests. It ensures functionality and security without downtime.
 
